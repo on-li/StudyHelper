@@ -4,12 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/drawable/prev.xml" value="0.342" />
+        <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/drawable/settings.xml" value="0.26" />
+        <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/layout/activity_import.xml" value="0.29393115942028986" />
         <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/layout/activity_question.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/layout/activity_question_edit.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/layout/activity_subject.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/layout/recycler_view_items.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/layout/settings_activity.xml" value="0.29393115942028986" />
         <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/menu/context_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/menu/question_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/menu/subject_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/leonh/AndroidStudioProjects/StudyHelper/app/src/main/res/xml/root_preferences.xml" value="0.29393115942028986" />
       </map>
     </option>
   </component>
