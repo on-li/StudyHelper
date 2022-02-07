@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyHelper">
         <activity
+            android:name=".QuestionEditActivity"
+            android:exported="false"
+            android:parentActivityName=".QuestionActivity" />
+        <activity
             android:name=".QuestionActivity"
             android:launchMode="singleTop"
             android:parentActivityName=".SubjectActivity" />
